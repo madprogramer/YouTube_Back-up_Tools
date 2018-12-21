@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_KbS9fix3wIVVVzgCh0Txw_fKPgdMgJpdki02Yi7xs2Q0jA">
+<annotation id="annotation_229575" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=MKRCbGdiLLQ&amp;ei=i2UdXLy1IdW4gQeTjr_4DQ&amp;a-id=annotation_229575" itct="CAEQs-UBGP___________wEiEwj8ptL1-LHfAhVVXOAKHRPHD98o-B0yAml2SLTZiLvGzZDSMA">
+  <TEXT>HUZZAH!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.41500" y="32.08300" w="9.95300" h="6.45800" t="0:00:09.1"/>
+      <rectRegion x="49.41500" y="32.08300" w="9.95300" h="6.45800" t="0:00:09.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_31375" type="text" style="popup" log_data="xble=1&amp;a-type=1&amp;a-v=MKRCbGdiLLQ&amp;ei=i2UdXLy1IdW4gQeTjr_4DQ&amp;a-id=annotation_31375" itct="CAIQs-UBGP___________wEiEwj8ptL1-LHfAhVVXOAKHRPHD98o-B0yAml2SLTZiLvGzZDSMA">
+  <TEXT>HUZZAH!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="46.72100" y="60.62500" w="9.95300" h="6.45800" t="0:00:00.0"/>
+      <rectRegion x="46.72100" y="60.62500" w="9.95300" h="6.45800" t="0:00:10.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="11847903" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_1573691533" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTestarossa2013&amp;ei=i2UdXLy1IdW4gQeTjr_4DQ&amp;l-class=3&amp;a-v=MKRCbGdiLLQ&amp;a-type=1&amp;a-id=annotation_1573691533" itct="CAMQs-UBGP___________wEiEwj8ptL1-LHfAhVVXOAKHRPHD98o-B0yAml2SLTZiLvGzZDSMA">
+  <TEXT>I have a new Youtube channel!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.46900" y="0.00000" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="0.46900" y="0.00000" w="30.00000" h="8.88900" t="9:14.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Testarossa2013?annotation_id=annotation_1573691533&amp;ei=i2UdXLy1IdW4gQeTjr_4DQ&amp;feature=iv&amp;src_vid=MKRCbGdiLLQ" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2727251923" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJfOsMDsNR2E&amp;ei=i2UdXLy1IdW4gQeTjr_4DQ&amp;l-class=1&amp;a-v=MKRCbGdiLLQ&amp;a-type=1&amp;a-id=annotation_2727251923" itct="CAQQs-UBGP___________wEiEwj8ptL1-LHfAhVVXOAKHRPHD98o-B0yAml2SLTZiLvGzZDSMA">
+  <TEXT>This video explains why</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="87.98900" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="0.00000" y="87.98900" w="30.00000" h="8.88900" t="9:14.167"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2727251923&amp;ei=i2UdXLy1IdW4gQeTjr_4DQ&amp;feature=iv&amp;src_vid=MKRCbGdiLLQ&amp;v=JfOsMDsNR2E" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>
