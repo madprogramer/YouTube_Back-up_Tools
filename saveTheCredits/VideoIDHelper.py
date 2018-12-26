@@ -18,7 +18,7 @@ def isShortURL(s):
 
 def getIDfromURL(s):
     try:
-        return re.findall(r'v=[^&]+',s)[0]
+        return re.findall(r'v=[^&#]+',s)[0][2:]
     except:
         return None
     
@@ -26,4 +26,3 @@ def getIDfromShortURL(s):
     if(s.find("?")!=-1):
         return  s[ s.find("/", s.find("/")+2)+1 :  s.find("?")] 
     return  s[ s.find("/", s.find("/")+2)+1  :  ]
-
